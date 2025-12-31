@@ -180,6 +180,9 @@ Toolkit.run(
     tools.log.debug(
       `Activity for ${GH_USERNAME}, ${events.data.length} events found.`,
     );
+    tools.log.debug(
+      `events.data: ${events.data} `,
+    );
 
     const content = events.data
       // Filter out any boring activity
@@ -224,6 +227,7 @@ Toolkit.run(
     if (content.length < 5) {
       tools.log.info("Found less than 5 activities");
     }
+    tools.log.info(content);
 
     if (startIdx !== -1 && endIdx === -1) {
       // Add one since the content needs to be inserted just after the initial comment
