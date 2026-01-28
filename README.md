@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-2. ❗ Opened issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-3. 🗣 Commented on [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1#issuecomment-3765040242) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
-4. 🔒 Closed issue [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
+1. 🗣 Commented on [#8842](https://github.com/ruanyf/weekly/issues/8842#issuecomment-3808436504) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+2.  Labeled issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+3. ❗ Opened issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+4. 🗣 Commented on [#1](https://github.com/aelooee/red-dream-network-Tr/issues/1#issuecomment-3765040242) in [aelooee/red-dream-network-Tr](https://github.com/aelooee/red-dream-network-Tr)
 <!--END_SECTION:activity-->
 
 ---
