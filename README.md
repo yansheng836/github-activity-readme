@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [hero-skin-1.0.4-wzry 新版](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.4-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
-2. 🚀 Published release [hero-skin-1.0.2-wzry-old 归档旧版](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.2-wzry-old) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
-3. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3876011044) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-4. ❗ Opened issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3981583278) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+2. 🔒 Closed issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+3. 🚀 Published release [hero-skin-1.0.4-wzry 新版](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.4-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
+4. 🚀 Published release [hero-skin-1.0.2-wzry-old 归档旧版](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.2-wzry-old) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
 <!--END_SECTION:activity-->
 
 ---
