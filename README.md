@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#774](https://github.com/lokesh/lightbox2/issues/774) in [lokesh/lightbox2](https://github.com/lokesh/lightbox2)
-2. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3981583278) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-3. 🔒 Closed issue [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-4. 🚀 Published release [hero-skin-1.0.4-wzry 新版](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.4-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
+1. 🚀 Published release [hero-skin-1.0.5-wzry 优化](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.5-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
+2. 🚀 Published release [v1.0.5-wzry 添加相册功能](https://github.com/yansheng836/hero-skin/releases/tag/v1.0.5-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+3. ❗ Opened issue [#774](https://github.com/lokesh/lightbox2/issues/774) in [lokesh/lightbox2](https://github.com/lokesh/lightbox2)
+4. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3981583278) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 ---
