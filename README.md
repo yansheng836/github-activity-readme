@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [hero-skin-1.0.5-wzry 优化](https://github.com/yansheng836/hero-skin-image/releases/tag/hero-skin-1.0.5-wzry) in [yansheng836/hero-skin-image](https://github.com/yansheng836/hero-skin-image)
-2. 🚀 Published release [v1.0.5-wzry 添加相册功能](https://github.com/yansheng836/hero-skin/releases/tag/v1.0.5-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-3. ❗ Opened issue [#774](https://github.com/lokesh/lightbox2/issues/774) in [lokesh/lightbox2](https://github.com/lokesh/lightbox2)
-4. 🗣 Commented on [#6147](https://github.com/clash-verge-rev/clash-verge-rev/issues/6147#issuecomment-3981583278) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🚀 Published release [v1.0.1 add tag for old repo last code](https://github.com/yansheng836/hcache/releases/tag/v1.0.1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+2. ❌ Merged PR [#1](undefined) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+3. 💪 Opened PR [#1](undefined) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+4. 🚀 Published release [v1.0.0](https://github.com/yansheng836/hcache/releases/tag/v1.0.0) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
 <!--END_SECTION:activity-->
 
 ---
