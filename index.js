@@ -38,7 +38,11 @@ const toUrlFormat = (item) => {
     return `[#${item.payload.issue.number}](${item.payload.issue.html_url})`;
   }
   if (Object.hasOwnProperty.call(item.payload, "pull_request")) {
-    return `[#${item.payload.pull_request.number}](${item.payload.pull_request.url})`;
+    // GitHub Events API doesn't include html_url in pull_request object
+    // We need to construct it from repo name and PR number
+    const prNumber = item.payload.pull_request.number;
+    const repoName = item.repo.name;
+    return `[#${prNumber}](https://github.com/${repoName}/pull/${prNumber})`;
   }
 
   if (Object.hasOwnProperty.call(item.payload, "release")) {
