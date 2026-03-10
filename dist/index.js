@@ -20039,7 +20039,7 @@ Toolkit.run(
       `Activity for ${GH_USERNAME}, ${events.data.length} events found.`,
     );
     tools.log.debug(
-      `events.data: ${events.data} `,
+      `events.data: ${JSON.stringify(events.data, null, 2)} `,
     );
 
     const content = events.data
