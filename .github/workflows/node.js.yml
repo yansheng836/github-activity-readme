@@ -2,6 +2,8 @@ name: CI
 
 on: #[push, pull_request]
   workflow_dispatch:
+  push:
+   branches: [ test ]
 
 jobs:
   build:
@@ -11,6 +13,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: test
+          fetch-depth: 0
+          
       - name: Use Node 22
         uses: actions/setup-node@v4
         with:
@@ -19,3 +25,26 @@ jobs:
       - run: npm run
       # - run: npm run format:check
       - run: npm run build
+   
+      - name: Commit to the repo
+        run: |
+          echo 'Commit to the repo'
+          git config --global user.name "yansheng836bot"
+          git config --global user.email "yansheng836bot@163.com"
+          # 兼容git status中文乱码问题
+          git config --global core.quotepath false
+          # 保留所有提交历史，创建一个新的合并提交来整合分支。
+          git config --global pull.rebase false
+          # 增大缓冲区
+          git config --global http.postBuffer 1048576000  # 1GB
+  
+          git status
+          #exit 0 # todo 测试用，这里直接退出
+          git add .
+          # Force the build to succeed, even if no files were changed
+          #git commit -m 'Update generated files' || true
+          # 如果是空提交，让它在action中失败吧
+          #git commit -m 'Update generated files'
+          git commit -m "Update dist/index.js files on $(date +'%Y-%m-%d %H:%M:%S')"
+          #git pull origin main
+          git push
