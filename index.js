@@ -38,7 +38,7 @@ const toUrlFormat = (item) => {
     return `[#${item.payload.issue.number}](${item.payload.issue.html_url})`;
   }
   if (Object.hasOwnProperty.call(item.payload, "pull_request")) {
-    return `[#${item.payload.pull_request.number}](${item.payload.pull_request.html_url})`;
+    return `[#${item.payload.pull_request.number}](${item.payload.pull_request.url})`;
   }
 
   if (Object.hasOwnProperty.call(item.payload, "release")) {
