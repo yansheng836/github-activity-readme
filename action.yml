@@ -37,5 +37,5 @@ branding:
 
 runs:
   using: node20
-  #main: dist/index.js
-  main: index.js
+  main: dist/index.js
+  #main: index.js # 没环境，会报错，详见：https://github.com/yansheng836/github-activity-readme/actions/runs/22914399775
