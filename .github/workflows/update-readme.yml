@@ -1,0 +1,23 @@
+#https://github.com/marketplace/actions/github-activity-readme
+name: Update README
+on:
+  schedule:
+    # - cron: "*/30 * * * *"
+    - cron: "10 16 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yansheng836/github-activity-readme@test_MAX_LINES
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # with:
+          #COMMIT_MSG: "Specify a custom commit message"
+          # MAX_LINES: 10
+          #COMMIT_NAME: GitHub Activity Readme
