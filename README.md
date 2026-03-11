@@ -85,3 +85,7 @@ jobs:
 ```
 
 _Inspired by [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box)_
+
+### test_MAX_LINES
+
+<!--START_SECTION:activity-->
