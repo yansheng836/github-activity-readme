@@ -89,3 +89,9 @@ _Inspired by [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box)
 ### test_MAX_LINES
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#45](https://github.com/silenceshell/hcache/issues/45#issuecomment-4009196932) in [silenceshell/hcache](https://github.com/silenceshell/hcache)
+2. 🚀 Published release [v1.0.1 add tag for old repo last code](https://github.com/yansheng836/hcache/releases/tag/v1.0.1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+3. 🎉 Merged PR [#1](https://github.com/yansheng836/hcache/pull/1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+4. 💪 Opened PR [#1](https://github.com/yansheng836/hcache/pull/1) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+5. 🚀 Published release [v1.0.0](https://github.com/yansheng836/hcache/releases/tag/v1.0.0) in [yansheng836/hcache](https://github.com/yansheng836/hcache)
+<!--END_SECTION:activity-->
