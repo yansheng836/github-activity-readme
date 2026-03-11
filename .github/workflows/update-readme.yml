@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Update this repo's README with recent activity
+    name: Update this repo's README with recent activity of test_MAX_LINES
     runs-on: ubuntu-latest
     permissions:
       contents: write
