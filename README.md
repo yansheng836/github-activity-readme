@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#426](https://github.com/citusdata/pg_cron/issues/426) in [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
-2. 🚀 Published release [v1.1.8 修复已知问题](https://github.com/yansheng836/GCCL/releases/tag/v1.1.8) in [yansheng836/GCCL](https://github.com/yansheng836/GCCL)
-3. 💪 Opened PR [#471](https://github.com/postgres-cn/pgdoc-cn/pull/471) in [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
-4. 🗣 Commented on [#467](https://github.com/postgres-cn/pgdoc-cn/issues/467#issuecomment-4124355691) in [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn)
+1. 🗣 Commented on [#2](https://github.com/solar-luna/Fully-automatic-article-generation-skill/issues/2#issuecomment-4197462408) in [solar-luna/Fully-automatic-article-generation-skill](https://github.com/solar-luna/Fully-automatic-article-generation-skill)
+2. ❗ Opened issue [#2](https://github.com/solar-luna/Fully-automatic-article-generation-skill/issues/2) in [solar-luna/Fully-automatic-article-generation-skill](https://github.com/solar-luna/Fully-automatic-article-generation-skill)
+3. ❗ Opened issue [#3](https://github.com/iamzifei/wechat-article-publisher-skill/issues/3) in [iamzifei/wechat-article-publisher-skill](https://github.com/iamzifei/wechat-article-publisher-skill)
+4. ❗ Opened issue [#426](https://github.com/citusdata/pg_cron/issues/426) in [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
 <!--END_SECTION:activity-->
 
 ---
