@@ -7,9 +7,9 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/suqingdong/md2docx/issues/1) in [suqingdong/md2docx](https://github.com/suqingdong/md2docx)
-2. 🔒 Closed issue [#143](https://github.com/OpenSenseNova/SenseNova-U1/issues/143) in [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
-3. 🗣 Commented on [#143](https://github.com/OpenSenseNova/SenseNova-U1/issues/143#issuecomment-4394778163) in [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
+1. ❗ Opened issue [#5](https://github.com/yansheng836/github-stats/issues/5) in [yansheng836/github-stats](https://github.com/yansheng836/github-stats)
+2. ❗ Opened issue [#4](https://github.com/yansheng836/github-stats/issues/4) in [yansheng836/github-stats](https://github.com/yansheng836/github-stats)
+3. ❗ Opened issue [#1](https://github.com/suqingdong/md2docx/issues/1) in [suqingdong/md2docx](https://github.com/suqingdong/md2docx)
 4. ❗ Opened issue [#143](https://github.com/OpenSenseNova/SenseNova-U1/issues/143) in [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
 <!--END_SECTION:activity-->
 
