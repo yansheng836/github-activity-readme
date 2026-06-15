@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/yansheng836/bilibili-Fanrenpc/pull/4) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
-2. 🗣 Commented on [#469](https://github.com/DayBreak-u/chineseocr_lite/issues/469#issuecomment-4668398954) in [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)
-3. ❗ Opened issue [#5](https://github.com/yansheng836/github-stats/issues/5) in [yansheng836/github-stats](https://github.com/yansheng836/github-stats)
-4. ❗ Opened issue [#4](https://github.com/yansheng836/github-stats/issues/4) in [yansheng836/github-stats](https://github.com/yansheng836/github-stats)
+1. 🚀 Published release [v2.0.5 主要修复[文件去重]功能中遇到的一些问题](https://github.com/yansheng836/python-toolbox/releases/tag/v2.0.5) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
+2. 🚀 Published release [v0.0.1 初版](https://github.com/yansheng836/jekyll-theme-guofeng/releases/tag/v0.0.1) in [yansheng836/jekyll-theme-guofeng](https://github.com/yansheng836/jekyll-theme-guofeng)
+3. 🗣 Commented on [#8](https://github.com/yansheng836/bilibili-Fanrenpc/pull/8#issuecomment-4701494709) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+4. 🚀 Published release [v0.4 (2026-06-14) — GitHub Pages 主题与样式优化](https://github.com/yansheng836/bilibili-Fanrenpc/releases/tag/v0.4) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
 <!--END_SECTION:activity-->
 
 ---
