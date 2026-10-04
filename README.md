@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. ❗ Opened issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-3. ❗ Opened issue [#90](https://github.com/WeiyePlayer/TTcut/issues/90) in [WeiyePlayer/TTcut](https://github.com/WeiyePlayer/TTcut)
-4. 🚀 Published release [v0.4 (2026-06-14) — GitHub Pages 主题与样式优化](https://github.com/yansheng836/bilibili-Fanrenpc/releases/tag/v0.4) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+1. 🗣 Commented on [#3](https://github.com/yansheng836/hero-skin/pull/3#issuecomment-5976817964) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+2. ❌ Closed PR [#3](https://github.com/yansheng836/hero-skin/pull/3) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+3. 🚀 Published release [v1.0.6-wzry](https://github.com/yansheng836/hero-skin/releases/tag/1.0.6-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+4.  Labeled issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 <!--END_SECTION:activity-->
 
 ---
