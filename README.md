@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/yansheng836/hero-skin/pull/3#issuecomment-5976817964) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-2. ❌ Closed PR [#3](https://github.com/yansheng836/hero-skin/pull/3) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-3. 🚀 Published release [v1.0.6-wzry](https://github.com/yansheng836/hero-skin/releases/tag/1.0.6-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-4.  Labeled issue [#7512](https://github.com/farion1231/cc-switch/issues/7512) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+1. 🗣 Commented on [#7](https://github.com/yansheng836/hero-skin/pull/7#issuecomment-6054828026) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+2. 🗣 Commented on [#3](https://github.com/yansheng836/hero-skin/pull/3#issuecomment-5976817964) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+3. ❌ Closed PR [#3](https://github.com/yansheng836/hero-skin/pull/3) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+4. 🚀 Published release [v1.0.6-wzry](https://github.com/yansheng836/hero-skin/releases/tag/1.0.6-wzry) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
 <!--END_SECTION:activity-->
 
 ---
