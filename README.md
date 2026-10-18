@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/yansheng836/yansheng836.github.io/issues/22#issuecomment-6108529904) in [yansheng836/yansheng836.github.io](https://github.com/yansheng836/yansheng836.github.io)
-2. ❌ Closed PR [#13](https://github.com/yansheng836/bilibili-Fanrenpc/pull/13) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
-3. ❌ Closed PR [#15](https://github.com/yansheng836/bilibili-Fanrenpc/pull/15) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
-4. ❌ Closed PR [#11](https://github.com/yansheng836/bilibili-Fanrenpc/pull/11) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+1. 🗣 Commented on [#12406](https://github.com/ruanyf/weekly/issues/12406#issuecomment-6235205364) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+2. 🗣 Commented on [#22](https://github.com/yansheng836/yansheng836.github.io/issues/22#issuecomment-6108529904) in [yansheng836/yansheng836.github.io](https://github.com/yansheng836/yansheng836.github.io)
+3. ❌ Closed PR [#13](https://github.com/yansheng836/bilibili-Fanrenpc/pull/13) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
+4. ❌ Closed PR [#15](https://github.com/yansheng836/bilibili-Fanrenpc/pull/15) in [yansheng836/bilibili-Fanrenpc](https://github.com/yansheng836/bilibili-Fanrenpc)
 <!--END_SECTION:activity-->
 
 ---
