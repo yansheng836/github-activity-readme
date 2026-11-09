@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/yansheng836/ai-model-news/pull/2) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
-2. ❌ Closed PR [#1](https://github.com/yansheng836/ai-model-news/pull/1) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
-3. ❌ Closed PR [#17](https://github.com/yansheng836/python-toolbox/pull/17) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
-4. ❌ Closed PR [#16](https://github.com/yansheng836/python-toolbox/pull/16) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
+1. 🗣 Commented on [#10](https://github.com/yansheng836/hero-skin/pull/10#issuecomment-6730353579) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+2. ❌ Closed PR [#2](https://github.com/yansheng836/ai-model-news/pull/2) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
+3. ❌ Closed PR [#1](https://github.com/yansheng836/ai-model-news/pull/1) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
+4. ❌ Closed PR [#17](https://github.com/yansheng836/python-toolbox/pull/17) in [yansheng836/python-toolbox](https://github.com/yansheng836/python-toolbox)
 <!--END_SECTION:activity-->
 
 ---
