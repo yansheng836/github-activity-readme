@@ -7,10 +7,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Test
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13256](https://github.com/ruanyf/weekly/issues/13256#issuecomment-6840736997) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 🗣 Commented on [#10](https://github.com/yansheng836/hero-skin/pull/10#issuecomment-6730353579) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
-3. ❌ Closed PR [#2](https://github.com/yansheng836/ai-model-news/pull/2) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
-4. ❌ Closed PR [#1](https://github.com/yansheng836/ai-model-news/pull/1) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
+1. ❗ Opened issue [#110401](https://github.com/anthropics/claude-code/issues/110401) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🗣 Commented on [#13256](https://github.com/ruanyf/weekly/issues/13256#issuecomment-6840736997) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+3. 🗣 Commented on [#10](https://github.com/yansheng836/hero-skin/pull/10#issuecomment-6730353579) in [yansheng836/hero-skin](https://github.com/yansheng836/hero-skin)
+4. ❌ Closed PR [#2](https://github.com/yansheng836/ai-model-news/pull/2) in [yansheng836/ai-model-news](https://github.com/yansheng836/ai-model-news)
 <!--END_SECTION:activity-->
 
 ---
